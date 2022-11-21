@@ -1,0 +1,34 @@
+.hero {
+    padding: 153px 0;
+    background-image: url('../../images/scooter.jpg');
+    background-size: 100%;
+}
+
+.hero__content {
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 40px;
+}
+
+.hero__title {
+    margin: 0;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 56px;
+    letter-spacing: -2.5px;
+    color: #FFFFFF;
+}
+
+.hero__box {
+    width: 100%;
+    max-width: 405px;
+}
+
+.hero__text {
+    margin: 0 0 40px;
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
